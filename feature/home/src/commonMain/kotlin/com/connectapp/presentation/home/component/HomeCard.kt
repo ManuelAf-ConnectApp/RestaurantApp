@@ -11,10 +11,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
+import com.connectapp.commonresources.resources.Res
+import com.connectapp.commonresources.resources.restaurant_card_ambience
 import com.connectapp.presentation.home.RestaurantPreview
 import org.jetbrains.compose.resources.painterResource
-import restaurantapp.feature.home.generated.resources.Res
-import restaurantapp.feature.home.generated.resources.restaurant_card_ambience
 
 @Composable
 internal fun HomeCard(restaurant: RestaurantPreview, onClick: () -> Unit) {
