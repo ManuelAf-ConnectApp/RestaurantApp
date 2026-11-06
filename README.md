@@ -142,4 +142,17 @@ Without these, the corresponding release job fails immediately with a message na
 
 ---
 
+## License and notices
+
+Copyright 2026 ManuelAf-ConnectApp.
+
+RestaurantApp is licensed under the [Apache License, Version 2.0](LICENSE).
+The required project notices and asset attribution are available in [NOTICE](NOTICE).
+Third-party dependencies remain subject to their own licenses; their notices must be
+preserved when distributing a derivative work.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution terms.
+
+---
+
 *Developed with ❤️ using Kotlin Multiplatform.*
